@@ -1,0 +1,17 @@
+.env
+__pycache__
+alembic
+alembic.ini
+.idea
+venv
+env9
+.idea
+alembic/README
+alembic/versions
+coverage_re
+.idea/misc.xml
+.idea/video_test.iml
+*.log
+ logs
+*scripts/flush_migration_and_db.sh
+media/videos/*
